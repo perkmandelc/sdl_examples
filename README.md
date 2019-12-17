@@ -2,7 +2,7 @@
 
 ## 1. Windowing
 
-Open an opengl window, set the flags and display a colored screen.
+Open an OpenGL window, set the flags and display a colored screen.
 
 ## 2. Input and output
 
